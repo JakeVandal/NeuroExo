@@ -4,4 +4,5 @@
 
 void main() {
     int stuff = 1;
+    int otherstuff = 1;
 }
